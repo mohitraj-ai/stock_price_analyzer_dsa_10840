@@ -1,5 +1,5 @@
 DSA Project 
 PS NO. 9
-Stock Price ANalyzer
+Stock Price Analyzer
 BY Mohit Raj
 RU-25-10840
